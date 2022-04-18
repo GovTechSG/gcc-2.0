@@ -1,32 +1,10 @@
-# GCC 2.0 User Doc Repository
-This is a documentation repository for GCC 2.0, written for Documentation Portal, using [docsify](https://docsify.js.org/#/). You can find out what docsify or markdown extensions are supported [here](https://stg.docs.developer.gov.sg/docs/public/238425294/doc-portal-publisher-guide/#/).
+# GCC 2.0 2022 TechTalks Archive
 
-> The repository is currently in active development and  contents will change rapidly.
-
-## File Structure
-All markdown files should live within the **/docs** folder. Each main section should be a separate markdown file by itself. If you have added a new main section, you should also update [_sidebar.md](docs/_sidebar.md) so that it will show up when the webpage is rendered.
-
-All non-markdown files (i.e. images and sample code files) should live within the assets subfolder.
-
-## Running Locally
-### Setting Up
-- Install docsify cli `npm -g install docsify-cli`
-- Download this repository via `git clone`
-- Run `docsify serve .`
-
-#### Setting Up on zsh terminal
-if you get `zsh:1: command not found: docsify` after npm install:
-make sure you add `export PATH="$HOME/.npm-packages/bin:$PATH"` to the 1st line in your ~/.zshrc.
-Then `source ~/.zshrc` to reload. Finally, test with `docsify --version`. You should see the following:
-> docsify-cli version:
-x.x.x
+GovTech welcomes you to the GCC 2.0 TechTalks series conducted by the GCC experts. Join us to hear first-hand on what is new in GCC 2.0, how it is evolving continuously from GCC 1.0 and equip your business. Registration is free for public officers. They can attend these TechTalks live, view the recordings and download the presentation as PDF anytime later from this page, where we archive them. So, check this page frequently for upcoming events as well as our archive.
 
 
-### Syntax Highlighting
-The repository has been pre-configured to pull in the default Developer Portal's styling for Documentations. (See [index.html](./index.html))
+[Understanding GCC 2.0 User Roles](01-understanding-gcc2-0-user-roles.pdf)
 
-## Web Hosting
-By default, once you commit and push any changes into github, the contents will be updated automatically.
+**Presenter** : Esther Choa
 
-## Contributing
-Please fork the repository, make your changes and submit a Pull Request.
+**Date** : 18 April 2022
