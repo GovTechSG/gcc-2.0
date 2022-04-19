@@ -1,6 +1,8 @@
-# GCC 2.0 2022 TechTalks Archive
+# GCC 2.0 2022 Tech Talks Archive
 
-GovTech welcomes you to the GCC 2.0 TechTalks series conducted by the GCC experts. Join us to hear first-hand on what is new in GCC 2.0, how it is evolving continuously to equip your business. Public officers can attend these TechTalks live, view the recordings and download the presentation as PDF anytime later from this page. 
+As we are excited to share with you what we are building for GCC 2.0, we start this by bringing the Tech Talks series conducted by our GCC experts. TechPass users can now view the recordings of the previous Tech Talks and download the presentation as PDF anytime from this page.
 
 
-- [Understanding GCC 2.0 User Roles](01-understanding-gcc2-0-user-roles.pdf), **Presenter** : Esther Choa, **Date** : 18 April 2022
+| Date | Topic | Presenter |
+| --- | --- | --- |
+| 18 April 2022 | [Understanding GCC 2.0 User Roles](01-understanding-gcc2-0-user-roles.pdf) | Esther Choa |
