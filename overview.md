@@ -8,7 +8,7 @@ Alternatively, public officers can visit [Government on Commercial Cloud (GCC)][
 | Date | Topic | Presenter |
 | --- | --- | --- |
 | 18 April 2022 | [Understanding GCC 2.0 User Roles](01-understanding-gcc-2-0-user-roles.pdf) | Esther Choa |
-
+| 19 April 2022 | [Continuous Security Assessment in GCC 2.0](02-continuous-compliance-in-gcc-2-0.pdf) | Chua Kai Ming |
 
 
 
