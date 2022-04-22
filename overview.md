@@ -9,6 +9,8 @@ Alternatively, public officers can visit [Government on Commercial Cloud (GCC)][
 | --- | --- | --- |
 | 18 April 2022 | [Understanding GCC 2.0 User Roles](01-understanding-gcc-2-0-user-roles.pdf) | Esther Choa |
 | 19 April 2022 | [Continuous Security Assessment in GCC 2.0](02-continuous-compliance-in-gcc-2-0.pdf) | Chua Kai Ming |
+| 20 April 2022 | [Navigating Key AWS Native Services in GCC 2.0](03-navigating-key-aws-native-services.pdf) |Low Cherng Wei and Samuel Loh |
+| 21 April 2022 | [Continuous Log Export and Retention in GCC 2.0](04-continuous-log-export-and-retention-in-gcc-2-0.pdf) | Chris Cheng |
 
 
 
