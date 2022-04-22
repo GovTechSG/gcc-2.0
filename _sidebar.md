@@ -1,1 +1,1 @@
-- [GCC 2.0 TechTalks Archive](overview)
+- [GCC 2.0 Tech Talks Archive](overview)
