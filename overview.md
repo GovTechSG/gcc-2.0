@@ -5,7 +5,7 @@ We are excited to share with you about what we are building for GCC 2.0 and we s
 Alternatively, public officers can visit [Government on Commercial Cloud (GCC)][gcc-presentations-on-intranet] using their GSIB device to view the previous Tech Talk recordings and download the presentations as PDFs.
 
 
-| <div style="width:240px">Date</div> | Topic | Presenter |
+| <div style="width:200px">Date</div> | Topic | Presenter |
 | --- | --- | --- |
 | 18 April 2022 | [Understanding GCC 2.0 User Roles](01-understanding-gcc-2-0-user-roles.pdf) | Esther Choa |
 | 19 April 2022 | [Continuous Security Assessment in GCC 2.0](02-continuous-compliance-in-gcc-2-0.pdf) | Chua Kai Ming |
