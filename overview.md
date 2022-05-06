@@ -12,7 +12,7 @@ Alternatively, public officers can visit [Government on Commercial Cloud (GCC)][
 | 20 April 2022 | [Navigating Key AWS Native Services in GCC 2.0](03-navigating-key-aws-native-services.pdf) |Low Cherng Wei and Samuel Loh |
 | 21 April 2022 | [Continuous Log Export and Retention in GCC 2.0](04-continuous-log-export-and-retention-in-gcc-2-0.pdf) | Chris Cheng |
 | 28 April 2022 | [Common Services in GCC 2.0](05-deep-diving-common-services-in-gcc-2-0.pdf) | Andrew Nai |
-| 29 April 2022 | [Network Constructs, TGW, Direct Connect & AWS Site to Site(IPSec) VPN](06-managing-tgw-ipam-and-networking-in-gcc-2-0.pdf) | Cherng Wei & AWS Solution Architects |
+| 29 April 2022 | [Networking constructs, managing TGW, Direct Connect & AWS Site to Site(IPSec) VPN](06-managing-tgw-ipam-and-networking-in-gcc-2-0.pdf) | Cherng Wei & AWS Solution Architects |
 
 
 
