@@ -14,7 +14,7 @@ Alternatively, public officers can visit [Government on Commercial Cloud (GCC)][
 | 28 April 2022 | [Common Services in GCC 2.0](05-deep-diving-common-services-in-gcc-2-0.pdf) | Andrew Nai |
 | 29 April 2022 | [Network Constructs, TGW, Direct Connect & AWS Site to Site(IPSec) VPN](06-managing-tgw-ipam-and-networking-in-gcc-2-0.pdf) | Cherng Wei & AWS Solution Architects |
 | 04 May 2022 | [Onboard to TechPass and SEED](07-onboarding-to-seed-and-techpass-for-public-officers-and-vendors.pdf) | Kellyn Goh, Kok Pin |
-| 06 May 2022 | [Resolve fully qualified domain name, overview of Gateway and Interface endpoints and load balancers - ELB, ALB and NLB](08-how-to-resolve-gcc-fqdn-and-wog-fqdn-endpoints.pdf) | Cherng Wei & AWS Solutions Architects |
+| 06 May 2022 | [Resolve fully qualified domain name, overview of gateway and interface endpoints and load balancers - ELB, ALB and NLB](08-how-to-resolve-gcc-fqdn-and-wog-fqdn-endpoints.pdf) | Cherng Wei & AWS Solutions Architects |
 
 
 
